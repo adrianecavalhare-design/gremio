@@ -1,0 +1,19 @@
+:ROOT  {
+--CINZA:  #e93d50;
+--VERMELHA-ESCURA:  #af303f;
+BRANCA: #fff;
+--luz: #ff5c77
+}
+BODY {
+ align-items: CENTER;
+ background: linear-gradient(45DEG,  #ff5C77 0%,#00b7c1 100%)
+ display: flex;
+ justify-content: center;
+ flex-direction: column;
+ font-family: ḿontserrat´,sans-serif;
+ min-height: 100vh;
+}
+h1{
+    color: var(--branca);
+    margin-bottom: 20px;
+font-size: 2rem;
